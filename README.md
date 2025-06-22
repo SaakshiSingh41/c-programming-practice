@@ -10,10 +10,18 @@ Collection of C programming exercises, mini-projects, and practice files — bui
 To compile and run any of the C files:
 ```bash
 # Compile the program
+gcc file_name.c ;
+for eg:
 gcc ATM/atm.c -o atm
 
+
 # Run the program
+./file_name
+for eg:
 ./atm
+OR
+./a.out
+
 
 **Purpose** 
 This repository is a space for:
