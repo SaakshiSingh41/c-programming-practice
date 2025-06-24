@@ -2,7 +2,9 @@
 Collection of C programming exercises, mini-projects, and practice files — building a strong foundation for programming, DSA, and embedded systems.
 ## 📁 Directory
 - **ATM/** — Simple ATM Simulation
-- **alphabet triangle/** - a nested for loop presenting alphabet triangle 
+- **alphabet triangle/** - a nested for loop presenting alphabet triangle
+- **array sum**- provides the sum of every individua row and column in a user provided matrix
+- **transpose**- provides the transpose of a user defined matrix
 
 ---
 
