@@ -5,6 +5,7 @@ Collection of C programming exercises, mini-projects, and practice files — bui
 - **alphabet triangle/** - a nested for loop presenting alphabet triangle
 - **array sum**- provides the sum of every individua row and column in a user provided matrix
 - **transpose**- provides the transpose of a user defined matrix
+- **student database**-enables user to enter data of any desired number os students such as their roll no., name etc.
 
 ---
 
