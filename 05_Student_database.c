@@ -18,12 +18,13 @@ scanf("%f",&s[i].marks);
 printf("\n enter name:");
 scanf("%s",s[i].name);
 }
+  printf("\n");
 for(int i=0;i<a;i++){
 printf("info of student %d: ",i+1);
-printf("roll: %d",s[i].roll);
-printf("marks: %f",s[i].marks);
-printf("name: %s",s[i].name);
-printf("\n");
+printf("\nroll: %d",s[i].roll);
+printf("\nmarks: %f",s[i].marks);
+printf("\nname: %s",s[i].name);
+printf("\n\n");
 }
 return 0;
 }
