@@ -10,6 +10,8 @@ Collection of C programming exercises, mini-projects, and practice files — bui
 - **menu based array**-performs several menu based operations such as insert , delete , sort , etc on a user defined 1D array.
 - **2D array**-performs menu based operations on a 2D array.
 - **sparse add**-adds two sparse matrices in their touple form.
+- **polynomial**-adds or multiplies any two single variable polynomials.
+- **SLL**-performs menu based operations on a single linked list.
 
 ---
 
