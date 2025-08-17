@@ -7,6 +7,7 @@ Collection of C programming exercises, mini-projects, and practice files — bui
 - **transpose**- provides the transpose of a user defined matrix
 - **student database**-enables user to enter data of any desired number os students such as their roll no., name etc.
 - **descending**-arranges the given array in descending order
+- **menu based array**-performs several menu based operations such as insert , delete , sort , etc on a user defined array.
 
 ---
 
